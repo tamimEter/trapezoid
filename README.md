@@ -1,0 +1,2 @@
+# trapezoid
+parallelizing trapezoid method
